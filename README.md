@@ -1,4 +1,4 @@
-# attendance-tracker
+# Attendance Tracker
 # Website Description
 The Attendance Tracker Website is a digital platform designed to help college students efficiently manage and track their attendance for lectures and classes. By integrating your institute ID, the website provides a seamless way to monitor attendance records, schedule classes, and personalize the experience with thematic and account settings. The platform also serves as a central hub for organizing your weekly and extra classes, ensuring you stay on top of your academic schedule.
 
